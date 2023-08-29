@@ -2,7 +2,7 @@
 This repo is an implementation of the tutorial by freecodecamp to somehow practice the usage of redux toolkits with react project
 
 
-# NewsWebsite_React
+#  ReduxToolkitTutorial
 
 <a name="readme-top"></a>
 
@@ -10,16 +10,16 @@ This repo is an implementation of the tutorial by freecodecamp to somehow practi
 
   <br/>
 
-  <h3><b>NewsWebsite_React</b></h3>
+  <h3><b> ReduxToolkitTutorial</b></h3>
   <p>This repo will be a react website to be used for news publishing, its based on a theme I liked in wordpress and its a great place where I will be practicing my web development skills</p>
 
 </div>
 
 # 📗 Table of Contents
 
-- [NewsWebsite_React](#NewsWebsite_React)
+- [ ReduxToolkitTutorial](# ReduxToolkitTutorial)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 NewsWebsite_React< ](#NewsWebsite_React)
+- [📖  ReduxToolkitTutorial< ](# ReduxToolkitTutorial)
 - [🚀 Live Demo ](#-live-demo-)
   - [🛠 Built With HTML, CSS and JavaScript](#-built-with-html-css-and-javascript)
     - [Tech Stack ](#tech-stack-)
@@ -37,14 +37,14 @@ This repo is an implementation of the tutorial by freecodecamp to somehow practi
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 NewsWebsite_React< <a name="about-project"></a>
+# 📖  ReduxToolkitTutorial< <a name="about-project"></a>
 
-**NewsWebsite_React<e**
+** ReduxToolkitTutorial<e**
 In this project I will be making a calculator app using react
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Wil be deployed soon](https://geekyhacks.github.io/MyNewsWebsite_React/)
+- [Wil be deployed soon](https://geekyhacks.github.io/My ReduxToolkitTutorial/)
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
 
@@ -84,7 +84,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/NewsWebsite_React.git
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/ ReduxToolkitTutorial.git
 
 ### Prerequisites
 
@@ -99,13 +99,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/NewsWebsite_React.git
+- git clone https://github.com/GeekyHacks/ ReduxToolkitTutorial.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/NewsWebsite_React.git
+  git clone https://github.com/GeekyHacks/ ReduxToolkitTutorial.git
 
 ```
 
@@ -147,7 +147,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/NewsWebsite_React/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/ ReduxToolkitTutorial/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
